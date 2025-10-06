@@ -1,6 +1,7 @@
 <div align="center">
-  <h1>Hi 👋, I'm AdhithyanB</h1>
-  <h3>AI/ML Engineer | Machine Learning Enthusiast | Open-Source Contributor</h3>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=500&color=FF6F61&width=600&lines=Hi+👋+I'm+AdhithyanB;AI%2FML+Engineer+|+Machine+Learning+Enthusiast+|+Open-Source+Contributor)
+
 </div>
 
 ---
@@ -27,25 +28,24 @@ I'm a **Machine Learning Engineer** passionate about building intelligent system
 
 ## 🚀 Currently Learning
 <div align="center">
-  <img src="https://img.shields.io/badge/Transformers-6f42c1?style=for-the-badge&logo=huggingface&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative%20AI-ff69b4?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Graph%20Neural%20Networks-00bfff?style=for-the-badge&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/Transformers-6f42c1?style=for-the-badge&logo=huggingface&logoColor=white&logoWidth=20" />
+  <img src="https://img.shields.io/badge/Generative%20AI-ff69b4?style=for-the-badge&logo=openai&logoColor=white&logoWidth=20" />
+  <img src="https://img.shields.io/badge/Graph%20Neural%20Networks-00bfff?style=for-the-badge&logo=neo4j&logoColor=white&logoWidth=20" />
 </div>
 
 ---
 
 ## 💻 Projects
-
 <div align="center">
 
-[![Speech Emotion Detection](https://img.shields.io/badge/Speech_Emotion_Detection-blue?style=for-the-badge)](#)  
-Dual-mode ML model for classifying human emotions from speech. Includes facial emotion recognition using computer vision techniques.  
+[![Speech Emotion Detection](https://img.shields.io/badge/Speech_Emotion_Detection-blue?style=for-the-badge)](https://github.com/AdhithyanB/Speech-Emotion-Detection-SRET-HACKATHON)  
+Dual-mode ML model for classifying human emotions from speech. Includes facial emotion recognition using computer vision techniques.
 
-[![Real-time Object Detection](https://img.shields.io/badge/Real-time_Object_Detection-red?style=for-the-badge)](#)  
-Real-time object detection system using **YOLO** for security and automation applications.  
+[![Wall Crack Detection](https://img.shields.io/badge/Wall_Crack_Detection-yellow?style=for-the-badge)](https://github.com/AdhithyanB/Wall-crack-detection)  
+Deep learning-based system for automated detection of structural cracks in walls, enabling preventive maintenance and safety assessment.
 
-[![IoT Home Automation](https://img.shields.io/badge/IoT_Home_Automation-green?style=for-the-badge)](#)  
-Bluetooth-controlled home automation system using **Arduino** to control household appliances remotely.  
+[![Object Detection](https://img.shields.io/badge/Object_Detection-red?style=for-the-badge)](https://github.com/AdhithyanB/Object-Detection)  
+Real-time object detection system using **YOLO** for security and automation applications.
 
 </div>
 
@@ -62,8 +62,8 @@ Bluetooth-controlled home automation system using **Arduino** to control househo
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdhithyanB&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=AdhithyanB&show_icons=true&hide_border=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdhithyanB&theme=radical&hide_border=true" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=AdhithyanB&show_icons=true&hide_border=true&theme=radical" />  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdhithyanB&layout=compact&hide_border=true&theme=radical" />
 </div>
 
@@ -84,4 +84,4 @@ Bluetooth-controlled home automation system using **Arduino** to control househo
 
 ---
 
-> “Turning data into intelligence, one model at a time.”  
+> “Turning data into intelligence, one model at a time.”
